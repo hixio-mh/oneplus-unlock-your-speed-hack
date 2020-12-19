@@ -10,6 +10,6 @@
   "author": "anamritraj",
   "license": "MIT",
   "dependencies": {
-    "socket.io-client": "^2.1.1"
+    "socket.io-client": "^2.3.1"
   }
 }
